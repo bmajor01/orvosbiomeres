@@ -1,5 +1,5 @@
 # orvosbiomeres
-Orvosbiológiai méréstechnika labor
+Orvosbiológiai méréstechnika labor matlab kódjai.
 
 # SPAGETTI KÓD ALERT! 
 Keserves kínok közt született...
