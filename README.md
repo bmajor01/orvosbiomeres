@@ -1,0 +1,2 @@
+# orvosbiomeres
+Orvosbiológiai méréstechnika labor
